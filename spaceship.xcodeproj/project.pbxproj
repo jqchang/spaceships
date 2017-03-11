@@ -211,7 +211,7 @@
 				TargetAttributes = {
 					DC4C3BCD1D2CC75A00E8A6C9 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = PA579U484X;
+						DevelopmentTeam = E656B54U75;
 						DevelopmentTeamName = "Stephen Haney";
 						ProvisioningStyle = Automatic;
 					};
@@ -441,6 +441,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = E656B54U75;
 				INFOPLIST_FILE = "Pierre Penguin Escapes the Antarctic/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "io.JoyfulGames.Pierre-Penguin-Escapes-the-Antarctic";
@@ -453,6 +454,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = E656B54U75;
 				INFOPLIST_FILE = "Pierre Penguin Escapes the Antarctic/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "io.JoyfulGames.Pierre-Penguin-Escapes-the-Antarctic";
